@@ -1,0 +1,13 @@
+html {
+    position: relative;
+    font-family: "Playfair Display", Sans-Serif;
+    min-height: 100%;
+}
+body {
+min-height: 100%;
+}
+
+#comment {
+  resize: none;
+  outline: none;
+}
